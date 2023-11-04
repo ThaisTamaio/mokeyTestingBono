@@ -2,6 +2,12 @@
 
 Bienvenido al bono de Monkey Testing. Sigue los siguientes pasos para una correcta ejecución.
 
+## Versión de node
+
+Par ejecutar este proyecto se utilizó la versión de node:
+
+`18.17.0`
+
 ## Instalación - Importante
 
 Para instalar las dependencias del proyecto, ejecuta el siguiente comando en la terminal:
