@@ -2,10 +2,6 @@
 
 Bienvenido al bono de Monkey Testing. Sigue los siguientes pasos para una correcta ejecución.
 
-## Pre-requisitos
-
-Antes de comenzar, asegúrate de haber clonado este repositorio en tu máquina local.
-
 ## Instalación - Importante
 
 Para instalar las dependencias del proyecto, ejecuta el siguiente comando en la terminal:
